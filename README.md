@@ -66,7 +66,7 @@
 
 ## 🌍 Connect With Me
 
-🐙 Main GitHub: https://github.com/zmaryalaiali 
+🐙 Main GitHub: https://github.com/zmaryalaiali                
 🐙 Second GitHub: https://github.com/zmaryalaitooti
 
 ⭐ Thanks for visiting my profile!
