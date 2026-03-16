@@ -53,10 +53,10 @@
 ---
 
 ## 📚 Currently Learning
-*Machine Learnign     
-*Advance Python    
-* Android performance optimization
-* Mobile Security
+*  Machine Learnign
+*  Advance Python
+*  Android performance optimization
+*  Mobile Security
 
 ---
 
