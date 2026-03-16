@@ -53,8 +53,8 @@
 ---
 
 ## 📚 Currently Learning
-*Machine Learnign
-*Advance Python
+*Machine Learnign     
+*Advance Python    
 * Android performance optimization
 * Mobile Security
 
@@ -64,13 +64,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zmaryalaitooti\&show_icons=true\&theme=tokyonight)
 
----
-
 ## 🌍 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-
----
+🐙 Main GitHub: https://github.com/zmaryalaiali 
+🐙 Second GitHub: https://github.com/zmaryalaitooti
 
 ⭐ Thanks for visiting my profile!
 
