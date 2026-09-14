@@ -1,8 +1,9 @@
 # Hi 👋 I'm Zmaryalai Ali
 
-* 📱 I've been develop mobile apps in kotlin & Java primary focus on android for over 4 years 
-* 🧑‍💻 I'm the founder of Newsy app
-* 🧠 I'm learning python for ML and Secure app
+* 📱 I’ve been developing mobile apps primarily for Android using Kotlin and Java for over 4 years.
+* 🚀 I also work with Spring Boot for backend development.
+* 🧠 I’m currently learning Python for Machine Learning and secure app development.
+
 
 ## 🌍 Connect With Me
 
